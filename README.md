@@ -2,7 +2,7 @@
 
 CocktailsAPI with React<br>
 <br>
-Demo: **[CocktailsAPI](https://dejanv91.github.io/54-CocktailsAPI/)**
+Demo: **[CocktailsAPI](https://dejanv91.github.io/)**
 
 ## Frameworks:
 
