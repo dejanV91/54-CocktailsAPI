@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 // import pages
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -9,7 +9,7 @@ import Error from "./pages/Error";
 import Navbar from "./components/Navbar";
 function App() {
   return (
-    <Router basename="54-CocktailsAPI">
+    <Router>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
